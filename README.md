@@ -1,2 +1,3 @@
 # hello-world
 First repository on github
+I am Kijjiketchme Southern-Fox, sometimes known as KiJjiT the Fox, a father, farmer, engineering student, and beginning coder.  I finally got around to joining GitHub today, 11/21/2020, because I want to write and post a csv file with relevant data from experiments I have been conducting at UMES related to evaporation.  Once I have created a repository for my csv file, I want to be able to manipulate it with python scripts into some beautiful charts and graphs.  Did I mention I'm brand new to this and I've been troubleshooting basic installation problems for various python packages all day long on my laptop?
